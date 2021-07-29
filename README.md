@@ -22,7 +22,7 @@ I had already built so many Websites with the mentioned skill.
 </div>
 
 
-**Contact with me:**  
+**Connect with me:**  
 
 - 💬 Telegram : [@crypto_dev03](https://t.me/crypto_dev03)
 - 📝 Email : superdev678@gmail.com
