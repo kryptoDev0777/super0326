@@ -1,5 +1,9 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  
+  [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+  [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+  [gmail]: mailto:superdev678@gmail.com
+  [telegram]: https://t.me/crypto_dev03
   <br />
   
   Hi, I'm [SuperRabbit](https://t.me/crypto_dev03/), As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
@@ -20,14 +24,8 @@ I had already built so many Websites with the mentioned skill.
 
 **Contact with me:**  
 
-[<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
-
-[gmail]: mailto:superdev678@gmail.com 
-[telegram]: https://t.me/crypto_dev03
-
-
+- 💬 Telegram : [@crypto_dev03](https://t.me/crypto_dev03)
+- 📝 Email : superdev678@gmail.com
 
 **Languages and Tools:**  
 
