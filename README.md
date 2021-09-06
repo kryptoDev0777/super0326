@@ -41,6 +41,11 @@ I had already built so many Websites with the mentioned skill.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=super0326&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super0326&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 ### 💗 My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
