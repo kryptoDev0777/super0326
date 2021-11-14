@@ -3,7 +3,7 @@
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
   [gmail]: mailto:superdev678@gmail.com
-  [telegram]: https://t.me/crypto_dev03
+  [telegram]: https://t.me/solozekan
   <br />
   
   Hi, I'm [SuperRabbit](https://t.me/crypto_dev03/), As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
@@ -24,7 +24,7 @@ I had already built so many Websites with the mentioned skill.
 
 ### Connect with me:
 
-- 💬 Telegram : [@crypto_dev03](https://t.me/crypto_dev03)
+- 💬 Telegram : [@solozekan](https://t.me/crypto_dev03)
 - 📝 Email : superdev678@gmail.com
 
 ### Languages and Tools:
