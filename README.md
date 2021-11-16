@@ -6,7 +6,7 @@
   [telegram]: https://t.me/solozekan
   <br />
   
-  Hi, I'm [SuperRabbit](https://t.me/crypto_dev03/), As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm [SuperRabbit](https://t.me/solozekan/), As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
