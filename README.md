@@ -24,7 +24,7 @@ I had already built so many Websites with the mentioned skill.
 
 ### Connect with me:
 
-- 💬 Telegram : [@solozekan](https://t.me/crypto_dev03)
+- 💬 Telegram : [@solozekan](https://t.me/solozekan)
 - 📝 Email : superdev678@gmail.com
 
 ### Languages and Tools:
